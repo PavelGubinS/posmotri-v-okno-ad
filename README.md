@@ -1,1 +1,1 @@
-Проект "Посмотри в окно". Вторая проектная работа с курса Яндекса.
+https://github.com/PavelGubinS/posmotri-v-okno-ad
